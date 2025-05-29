@@ -1,4 +1,4 @@
-<h1 align="center">Ory polis - Open source Enterprise SSO and Directory Sync</h1>
+<h1 align="center">Ory Polis - Open source Enterprise SSO and Directory Sync</h1>
 
 <h4 align="center">
     <a href="https://www.ory.sh/chat">Chat</a> |
